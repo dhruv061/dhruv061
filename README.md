@@ -1,8 +1,3 @@
-![1670407990438](https://user-images.githubusercontent.com/96719397/231735254-cc33d957-8f43-4c6c-a23f-6c584f208b9c.jpeg)
-
-
-
-
 <h1 align="center">Hello 👋, I'm Dhruv Mavani</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <img align="right" alt"Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
