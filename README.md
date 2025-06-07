@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dhruv Mavani</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">From 0 to a billion — I scale it, monitor it, and own it. I'm your 1% DevOps guy.</h3>
 <img align="right" alt"Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
@@ -8,16 +8,15 @@
 
 
 
-- 🔭 I’m currently working on [Digital Attendance System (DAS)](https://drive.google.com/file/d/1Nc2EHb7YUD0EMCrDygcwc6w0iP3RT2Dj/view)
+- 🔭 I’m currently working on **Cloud cost optimization and building supercharged infrastructure to serve high-volume users — helping businesses move faster**
 
-- 🌱 I’m currently learning **flutter,node.js & mongodb**
+- 👯 I’m looking to collaborate on **Automating multi-cloud deployments across diverse tech stacks with guaranteed 0% downtime**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhruv061](https://github.com/dhruv061)
+- 📝 I regularly write articles on [medium.com/@dhruv-mavani — I write about a variety of DevOps concepts, real-world use cases, and automation](medium.com/@dhruv-mavani — I write about a variety of DevOps concepts, real-world use cases, and automation)
 
-- 💬 Ask me about **app development framework flutter**
+- 💬 Ask me about **AWS, Azure, Docker, Terraform, Prometheus, Grafana, Karpenter, Cost Optimization**
 
-- 📫 How to reach me **mavanidhruv132@gmail.com**
-
+- 📫 How to reach me **mavanidhruv135@gmail.com**
 
 
 
